@@ -1,4 +1,4 @@
-<h1>GitHUBPus</h1>
+GitHUBPus
 =======================================
 + Supervisor	: LÊ THANH NHÂN
 + Semester		: I	
