@@ -1,2 +1,0 @@
-
-Danh sách file:
