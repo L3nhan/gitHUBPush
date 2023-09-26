@@ -10,11 +10,11 @@ GitHUBPus
 	3. Nguyễn Thị Bê 	(Student0000003)	
 =======================================
 
-Documentations : https://github.com/L3nhan/gitHUBPush/tree/master/Documentation
+Documentations : https://github.com/L3nhan/gitHUBPush/tree/master/Documentations
 
 =======================================
 
-Published website : https://l3nhan.github.io/gitHUBPush/<br>
+Published website :
 
 =======================================
 
