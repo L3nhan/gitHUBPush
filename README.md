@@ -9,8 +9,8 @@
 	<BR>2. Trần Văn Sê	(Student0000002)
 	<BR>3. Nguyễn Thị Bê 	(Student0000003)	
 <BR>=======================================
-<BR>Documentations : https://github.com/L3nhan/gitHUBPush/tree/master/Documentations
+<BR>Documentations: https://github.com/L3nhan/gitHUBPush/tree/master/Documentations
 <BR>=======================================
-<BR>Published website :
+<BR>Published website: https://l3nhan.github.io/gitHUBPush/
 <BR>=======================================
 <BR>Thank you for visit our website.
